@@ -8,8 +8,8 @@ print(formattter.format(True, False, False, True))
 print (formattter.format(formattter, formattter, formattter, formattter))
 #I think the , is allowing the code to print on the same line
 print(formattter.format(
-    "Try your",
-    "Own text here",
-    "Maybe a poem",
-    "Or a song about fear"
+    "It is quite difficult to",
+    "work on this while",
+    "an intense conversation ia happening behind me ",
+    "and Lucy is watching is Toy Story"
 ))
