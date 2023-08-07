@@ -16,3 +16,5 @@ print(formattter.format(
     "and Lucy is watching is Toy Story",
     "but i am still making progress!"
 ))
+
+#the majority of ways to break this code can be redcued to syntax. Outisde of this the other possibilities are defined in my notes
