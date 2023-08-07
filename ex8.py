@@ -11,6 +11,6 @@ print (formattter.format(formattter, formattter, formattter, formattter))
 print(formattter.format(
     "It is quite difficult to",
     "work on this while",
-    "an intense conversation ia happening behind me ",
+    "an intense conversation is happening behind me ",
     "and Lucy is watching is Toy Story"
 ))
