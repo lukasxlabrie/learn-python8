@@ -5,7 +5,7 @@ formattter = "{} {} {} {}"
 print(formattter.format(1, 2, 3, 4))
 print(formattter.format("one", "two", "three", "four"))
 print(formattter.format(True, False, False, True))
-print(formattter.format("Green", "Yellow", "Blue","Orange"))
+print(formattter.format("Green", "Yellow", "Blue","Orange", "Black"))
 # This prints 16 {} because the formatter is requested 4 times
 print (formattter.format(formattter, formattter, formattter, formattter))
 #I think the , is allowing the code to print on the same line
